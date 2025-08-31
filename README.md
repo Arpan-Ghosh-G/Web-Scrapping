@@ -30,3 +30,9 @@ It collects essential details like **SEO meta tags, product name, description, s
 ---
 
 ## 📂 Project Structure
+📁 Costco-WebScraper
+┣ 📄 scraper.py # Main script
+┣ 📄 DriverPath.txt # Path to Chrome driver
+┣ 📄 URLS.txt # List of product URLs to scrape
+┣ 📄 OutputData.csv # Output file with extracted data
+┗ 📄 README.md
